@@ -1,0 +1,35 @@
+name: work for shedule
+on:
+  schedule:
+    - cron:  '0 */8 * * *'
+jobs:
+ findListWorkers:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{steps.list_dirs.outputs.matrix}}
+    steps:  
+    - uses: actions/checkout@v2
+    - id: list_dirs
+      run: echo "::set-output name=matrix::$(ls ./workers/*.py|jq -cnR '[inputs | select(length>0)]')"
+#fix me. result to different branche or start only one workers(
+ startWorkers:
+    runs-on: ubuntu-latest
+    needs: findListWorkers
+    strategy:
+      fail-fast: false
+      matrix:
+        job: ${{fromJson(needs.findListWorkers.outputs.matrix)}}
+    steps:
+    - uses: actions/checkout@v2
+    - name: start $JOB
+      run: |
+          sudo python3 $JOB ${{ secrets.PASS_7Z }}
+          sudo git config --global http.postBuffer 524288000
+          sudo git config --local user.email "${GITHUB_ACTOR}@gmail.com"
+          sudo git config --local user.name "${GITHUB_ACTOR}"
+          sudo git remote -v
+          sudo git add --all
+          sudo git commit -m "result works"
+          sudo git push "https://gergimentr:${{ secrets.ACCESS_TOKEN }}@github.com/gergimentr/finder.git" HEAD:main --force 
+      env:
+        JOB: ${{ matrix.job }}
