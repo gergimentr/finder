@@ -61,3 +61,6 @@ SEARCH,YEARS,PATTRN,HASHfile
      (sizeof(PVSCSICmdDescSetupRi.., 2016 ,.*sizeof.*\/sizeof.*,/tmp/work/c/c1725cfe6f93a6f1d53c531f7a8dd847bbd419b9c1414f73c16544aedc2e474f
 #define TARGETS (sizeof(targets)/.., 2003 ,.*sizeof.*\/sizeof.*,/tmp/work/c/cf1bc6a57799fd6a0fa8d0aeb048730d3e541349233524d8330eccf05c11eb9b
 There should be a check *before* .., 2012 ,.*sizeof.*\/sizeof.*,/tmp/work/c/cac0b078de7151dd12a22b2d36daa7533561b1cb099a7e98d946fee3a7c6cbd8
+    if( (iType&lt;0) || (iType&gt.., 2004 ,.*sizeof.*\/sizeof.*,/tmp/work/e/eeb27594c7fe1f0a4a8c1edb61378822d2575c009f8600b3dfb405ea3a29cd70
+        len = sizeof(buffer)/size.., 2021 ,.*sizeof.*\/sizeof.*,/tmp/work/e/efacb4e38fb7b9eb1ce8895464060ff30bce1b581aca858e085b957c4f6d4c5d
+--></td></tr><tr><td><table><tr><.., 2011 ,.*sizeof.*\/sizeof.*,/tmp/work/e/ea11290fca195e03a78dd9633e43b5bba1fac7d587f488c25ae1a3d4e57384c5
