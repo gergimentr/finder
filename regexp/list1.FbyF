@@ -1,2 +1,3 @@
-103noreturn_:_noreturn
-102add_:_.*sizeof.*\/sizeof.*
+3393076_:_IsNaN|NaN
+339a019a149a051a168_:_await|NullReferenceException|InvalidCastException|.*=.* as .*;
+3393131_:_if.*\(.* is .*\)
