@@ -64,3 +64,5 @@ There should be a check *before* .., 2012 ,.*sizeof.*\/sizeof.*,/tmp/work/c/cac0
     if( (iType&lt;0) || (iType&gt.., 2004 ,.*sizeof.*\/sizeof.*,/tmp/work/e/eeb27594c7fe1f0a4a8c1edb61378822d2575c009f8600b3dfb405ea3a29cd70
         len = sizeof(buffer)/size.., 2021 ,.*sizeof.*\/sizeof.*,/tmp/work/e/efacb4e38fb7b9eb1ce8895464060ff30bce1b581aca858e085b957c4f6d4c5d
 --></td></tr><tr><td><table><tr><.., 2011 ,.*sizeof.*\/sizeof.*,/tmp/work/e/ea11290fca195e03a78dd9633e43b5bba1fac7d587f488c25ae1a3d4e57384c5
+#define ARG_SIZE(a)   ((a-(sizeof.., 2008 ,.*sizeof.*\/sizeof.*,/tmp/work/f/f722ba9884e93c8c53e21d50a7eafc34c89e834f72d7b6c1b9ac37550e5f040f
+<pre><code>/&#42;&#42;&#42;&#42;&.., 2020 ,.*sizeof.*\/sizeof.*,/tmp/work/f/f580d63ecb129a1817bc8ed64712c7e4a2a237d23a77ee4f3292ee23264232f7
