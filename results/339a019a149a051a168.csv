@@ -220,3 +220,58 @@ await, 2021 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp
 "<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/0/0738e2ea23e160f7835d8c4bba9d98da54a5547bd3c8b4afe037daeb1108749c
 "<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/0/0ca38af0628f34d21df901fd5ff017e2e05bc0c47bea597746e8e2a706de702d
       document.getElementById('cf.., 2011 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/0/0320af43eb856ccb2e0efe7f45c58d090480a22079f6fade47279b70ee4c9ad3
+"<!doctype html> <html class=""no-j..", 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/168e2a90b56642285979158cdfdefaf42e9a39631ae7c11d9657200af26f1b2b
+"<!doctype html> <html class=""no-j..", 2005 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1cd262c0f2925b1156cfb424b3ba4302800673573471de8fdc7f3e04fb292ddc
+"<!doctype html> <html class=""no-j..", 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/134de841c41261cc821f78ee23b62d8d1438e26112123ea6b14cb32535885604
+"        <div class=""prima-wrapper..", ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/140af5cfc54dcb4c5a117f16969af9dec9ee5d551531656982683294ad381595
+"      <a class=""level-1 sorting-0..", 2012 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1925cdc9955d1ad96960169f5f72fa97038c79625e3d87ae9cfb12bcc1cdba62
+"<A HREF=""/microsoft/""><img src=""/..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1dc5d43aa083e69a6f07f1178ed3268e2763c0452cca62f1956f93135bc7480c
+"<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/10a78cce4d88d3fdb797e66edd0a5c8924a1ecd9443e5a4e66a74c2a79befe4c
+"<!doctype html> <html class=""no-j..", 2012 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1d3693dc3bcb91d5e11aec32e43018b2c14916b2435769abd7667f9e304e02b3
+"<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1836957555a67423b59d507a610729f13d4b8e4c073ffd8529e59ffd92837566
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/197b5204f9c9c3f42a25923de1598b21b52fa7d50794b43717da5249480e8042
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/10799d838378e6adfc3dc2f4a7eeb9b5538ed2e522dd0552b576b9c5ac189e0a
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1570f75bc593888f24a628568b826b746ad280a8726fbc663bc7073a8c14023d
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1e5dcd6941b5b0814ae72570bed7e725c16f25c82ed181fd8086aa332d12d725
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/169a5702c57f3e23657b067dc506e5c25ed54f65464ba564ab9958c39d1e560c
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/17ffa0c51dc993150f0ddbdf274aab3a2e514ec38e72b676fb465080573de6f1
+"<!doctype html> <html class=""no-j..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1f1b5404a446e2e5243635f3728f26290987c6e98c2e06b8fa1c5be7dae17162
+"<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/191508ea8cc9e34500f11404c0d7bbc6ea36666ec214274b9ca1576e8b0655da
+      document.getElementById('cf.., 2020 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/15438143fdb2bcfeaeedbff93f9e7cc2ada843391f204c6dc26df78537914a83
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1d80d08b9dc368011256232f05f259b22a9367801863d8baf75bd5f234ab7008
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/129ccbaa26b4fe143d0d74e1edf94e56d9f3277ddecd2dcebcb0141474d4d310
+await, ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1b6c586b7b0a2e9309a95e2ed812fb3ec6ac9881a9e73dc3cfba0be9d256f716
+await, 2017 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1f068badd69ad55604d0b361afbfb2fee5a5699830b9c5cff162388be3f51ca0
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1764c4bb92f61b710597a3db94537a74ff91fcbc491fceb702f48a9934636ed1
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/16f4af31d065a80cd4df88c33dbbe5636f2aa651a5f0884a545e0c592fdf34d0
+"<!doctype html> <html class=""no-j..", 2000 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1261606892a587ab15f12889e394fabb5fbdf378cdc37dfd1c032253c59a4e93
+      document.getElementById('cf.., 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1061c848b9724125eea79b12e801148e6a074120a0582e4a6d61467cfd6cc409
+"<!doctype html> <html class=""no-j..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1eb62f3affb2f9fca99531d6b768783503453d26e2fd5e12c41de31216559c12
+"<span style=""background-color: tr..", 2016 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1b404fc5611167435befe45717c531eadada88a685116ac31cf4f96f7f80e205
+        window.cacProductMetadata.., 2015 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1764e3e3ec695bf5957b8f305b3bc23e2f314dee5f29e2f484f875df7d00506e
+"<!doctype html> <html class=""no-j..", 2013 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/174221a7b9521e95dca5941462d6c4a95af41f0d174ad04b972a99180cb0c249
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/113ff9431f7d1bbb2420cf13be77e45ba779323b771a8e514823c9924c469cdf
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/15d822c90bf8faffebde35fbfcbd868cf3212e5fc9a6bf0b1708a154a8df589a
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/136531aaee93094bac8d0b00ab36110525e2f2ccc1198ac7a995c884162a8a70
+"<!doctype html> <html class=""no-j..", 2011 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1a75b9b7642edaeaf80358de29441adaaf82822d0faa17b9f139bec288a1fbc2
+      document.getElementById('cf.., 2013 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1b4fc794842ec99216b4dc81720d9fd24b9145bf580c2351e3569cc3ed13c251
+      document.getElementById('cf.., 2016 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1ac46a22debcd9abfb34bbc1b606f18427e9beb76ce0ed92bf97f2a545128aa0
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1dbf633330f9962b4a8844bc8e3ebb0111e9cfbdf9767d42e0560bfc102d3429
+"        id=""ct-7"" data-comment-id..", 2015 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1b161f453dd0d68b528db6ac99586e91e4c3a5a3141cfdcef206ad5fac951a42
+"var embedVars = {""disqusConfig"":{..", ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/110fc3507f621f40d360ccc77088cf0a86b55ed6088b4b5e27446fafeffee2bd
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/13946aad77203dd4b826187ed97a1e0a7093020a0f3a0add4b64a1485fddfca3
+"<!doctype html> <html class=""no-j..", 2009 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/13f2f459a56df1250a7286389720425d098670ebacc8cde22b01aa1047d8f227
+"<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1deb3d34c670ed0a41b78e7ef9fae7230dab4bfea78aa44c55bd1bce58794bae
+"<!doctype html> <html class=""no-j..", 2011 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/19a64a9e69d847fa7c1f92eed4a6fd73e4393a7a80848ef176e5764e26653f45
+"<!doctype html> <html class=""no-j..", 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1560bfe94ce99d0455033c5cc973a36842d7478baab831c3788bed50afc7c39a
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/129c17dc456cec4bef6d71b12140c748bdbb87c9754e539f2587cf22b7b75a19
+"<!doctype html> <html class=""no-j..", 2012 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1ab26015d89d92448dd2de06811bc21d97b949b586c8b905008e6ab93b6730d9
+"<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1a2b1bebea1be3d7200ad7b47153d10ab2f1558cde758a340b2e5423808e29ba
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/117acc4c15a7c18d228d614c9aa3c255ec33642a510d299cb79894ba7ff64073
+"<!doctype html> <html class=""no-j..", 1999 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/153aee184fb751b4a8f21fa8041801b8006927aa5f14c99d7fc57157942ad0fa
+"<!doctype html> <html class=""no-j..", 2005 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1b8a1dfc4dd8b335a75e26c620178aa461ad07da30cc3419622290927c9bd753
+"<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1dcd3a3cf5b39f911f47df5fd90054981a2363fe37fa742738019cdd67289dbb
+"<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/10e82bb24644b8f085b930dcb81fa53ae768634bc0d1e9f2f862f727eb8db0ad
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/18c2e2b777152727662e9a2dbd33bdeb4d86e8003681fd026b33fe5e6149a2ac
+"<!doctype html> <html class=""no-j..", 2011 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1fcb254654c5b6272f7f953c95cf0f92aca5919e8b30ee2025ddffb883b3256b
+"<!doctype html> <html class=""no-j..", 2003 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/18ef88aca0e3203ccea6d6cb59ed74448bd83293d151027845755a7564ea6db3
