@@ -951,3 +951,16 @@ await, 2021 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp
 "<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/7/7ba65b090fe597d577cd7c63afa852a6cdfff7f7ff8da5a97580f98202f0ff07
 "<!doctype html> <html class=""no-j..", 2000 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/7/7e77ccae29c3ba3992c24ab05c678719d3d5bdaa888e841a0e2a248d65fef21d
 "<!doctype html> <html class=""no-j..", 2017 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/7/799bf74f40d939bee09a789da677bdc7daca0075a7cd07b789b1e802b806f556
+"<!doctype html> <html class=""no-j..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/83f03b6d0b851e00cfaed438979eba51d93b6d66d876a01b33b1dc9ad0b876fa
+"<!doctype html> <html class=""no-j..", 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/83d1f5cfbdbbbc288d3d14c23b903cddc6eff16b69d39a20f77eef7c2854f7d6
+      document.getElementById('cf.., 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8ab14c69d6a266b1d1e26ee5ba1c10916a8ad2a1b30d416e3fef16b72eca6810
+      document.getElementById('cf.., 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/856ef72db29a4a5430f1394b577e53d47575a0a7d6d347eab04bcbfa2eabb52a
+"<!doctype html> <html class=""no-j..", 2009 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/83809a63ff9b35a1a232c2cdcb845a834eab3c8fd91735e34420efdb5e5b7749
+      document.getElementById('cf.., 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8ca1add395bf441568f5a6942331965eb9437bd17aff5e43e0f2292447eb5f1d
+"<!doctype html> <html class=""no-j..", 2012 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8e6aa96dbdbaa21b545d727b828bd81fc93ee8a4b21c9bd7f91280e32ee14976
+"			<p class=""text-muted"">Heap-bas..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/820875a254e9a89a25b3c8d7561725ef786d57ce3ebb13831504124477b7ba25
+"        {""coverReducer"":{""coverDi..", ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8862a995f511f72c414924c385e2a5a3e0302a85349143a48bed91fcd2c081c1
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/881d46458097d0cd005c8693f498ec5e0faadc832c4d1b1ac6bdf007116e7b2a
+await, 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8e44a13997d80dc0b143b984c22b70321e9b3be026b9d7e2fd9a9529d1e1c49f
+"<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/8605822b9457938fc77d790c0cb4637ba38e7c9c1bec45b4f387b87b0406d2a9
+"<!doctype html> <html class=""no-j..", 2005 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/8/88d90f146d14a686203ae0f6c01239ca64330a9ef94fabf8cdd5cf25b4adae23
