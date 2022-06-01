@@ -1710,3 +1710,12 @@ await, 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp
 "<td class=""column-1""><span style=..", ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/d/d3571534d1ccf033f64f4a744003da6a5cb16d2bb25675fb854a4d54e5965141
 "<!doctype html> <html class=""no-j..", 2009 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/d/db645ecf8773be115e0fe37a0cea67614c96f1cccf8c2a0eb28697fb28ab57d8
       document.getElementById('cf.., 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/d/d2dc6d95cf6b5156d91a3b317dd2015b92d9e2ed90cccca5763d8b10d1b58099
+      document.getElementById('cf.., 2021 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/ed00331298f2ca1875b5e989ab0d6c939ce042723e89c6529bb4b23839ab4044
+await, 2020 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/e82ccc6e1b0cea618f72d3b4fef676ff97629dfb6cedf4ccb7ec3b4540c45591
+"    <meta name=""description"" cont..", 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/ed48deca49eca53e3de2b4f838e5286428401056c54ac89d46a9c03d4c36fe62
+"<!doctype html> <html class=""no-j..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/e0b9abbb8685bb42a2b35686401753bff3676c81de495c8a32d8126c5b96b4ab
+"<!doctype html> <html class=""no-j..", 1999 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/ed6324f8a96b4e2fddd49027abf34993d301448244dff70c74abbb6f31a12210
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/ee41529954bbaed5908d4f931c105933c3d1375f597030edab8c62e9ea776a9c
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/ed28ec7d0ef5998974506863704117771db6d8b1a45715e1741af99a106782ff
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/e14d51d62cd7952a12c6fae9f3791f25bf01e0c04ec0821bb12e0ae268b8933e
+"<!DOCTYPE html> <html lang=""en_EN..", 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/e/e38d154337ad2d517fe07da35b22bf2b0f71c4fc3a0b9c24c5dc4c0ed34386dc
