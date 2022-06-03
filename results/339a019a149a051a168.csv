@@ -2349,3 +2349,8 @@ await, 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp
 await, 2021 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/3/34ee69c18febbb5ae6f4f24167453a3fe312882df3e9a6d2680446e8cd5b3bfe
 await, ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/3/3f3c00abae746a68f657c0e85adbb6b7cf73bb587c8130e1e2677b816fca48a2
 "<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/3/34753d347ae592237975c61177128c111a75f6a840d9870de3e1cafdb00854bc
+"})(window,document,'script','data..", 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/4/49a28def4d5e55180a352dd2b395d18d9ef1c88e2a6ad63ddd0a44bb1817db6f
+"<p><span style=""font-weight: 400;..", 2020 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/4/4d36158efa93fe1b9764d53046f7ddcd01dbb8268883f915d9d69757500198e4
+"<!doctype html> <html class=""no-j..", 2020 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/4/421b308b6a3c38bf2b229e977720ad18423043530899d15ca4383e41a0f030c2
+"<!doctype html> <html class=""no-j..", 2008 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/4/418d2c31094f2c66fe15b509cfc0f09a03a2cb63b4022d9da9e457a64a1ba51f
+"<!doctype html> <html class=""no-j..", 2007 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/4/4dc7bb9b7de0b23cbd845aef14f062c62c0c2d1599f4418309582800579840f3
