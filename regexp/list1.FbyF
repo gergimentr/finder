@@ -1,3 +1,7 @@
-3393076_:_IsNaN|NaN
 339a019a149a051a168_:_await|NullReferenceException|InvalidCastException|.*=.* as .*;
-3393131_:_if.*\(.* is .*\)
+548v3054_:_[Dd]ouble [Cc]hecked [Ll]ocking|DOUBLE CHECKED LOCKING
+537v6103_:_InterruptedException
+530v6093_:_NullPointerException
+371v3064_:_[Dd]ivision
+365v3114_:_[Dd]isposed|[Dd]isposable
+355equal549_:_memcpy|memmove|memcmp|memicmp|strstr|strspn|strtok|strcmp|strncmp|wcscmp|stricmp|wcsncmp
