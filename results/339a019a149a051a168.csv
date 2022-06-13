@@ -5532,3 +5532,13 @@ await, 2020 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp
 "			<p class=""text-muted"">Buffer o..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1c2a580e70085f533e2bf7d68a76118e541cd5e544b80a4f2aaaa810f79ad0ab
 "<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/1f1723e6cb0884308b8a3dfc43a6988fd209ebe2be24f982e39faab8e6f10966
       document.getElementById('cf.., 2019 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/1/12f6dc35cba900b8cfbeb7a460d366861e7b26940dcc816e77b075f1af1fc40e
+await, 2018 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2375e21d7ab4de78558276fad03ff631a0eeff5b4d44ba276967d80c9706b981
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2de7be9bc48325e6ceb07a509de01c38cd83418a6f5f5513f4080f45c0843975
+"      <div style=""clear:both;""></..", 2005 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2f0bfc3b4c44b38ab53732583bc780163ad3e48c7e626f4bcc8a06ea9c3125dd
+      document.getElementById('cf.., 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/24009771da1860a2b6c83433a311af23824fe56b551212578a5d0e197eeb76ae
+"<!doctype html> <html class=""no-j..", 2011 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2846391c260bcf3cdb72bc0ce9a090167aa994a83aa83ae8285a264c459c2324
+"<!doctype html> <html class=""no-j..", 2014 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2271e19ebe626e3d24d500a7fec18212b596d415602a67d2e9cda49adb6a18c2
+"<!doctype html> <html class=""no-j..", 2006 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/206f43c2597fe9f3cb8d5857f251ce0b4d71f7258dbc9e211235f5f6c7b5f2af
+"<!doctype html> <html class=""no-j..", 2010 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/269025fa1262973010630dd0b7cfae283139a87fb10ad9a02ddcd0b52b404123
+"<!doctype html> <html class=""no-j..", 2004 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/2134df28e89c1a06d73f4c60b8da1224c21e222148417c95b5d4946e565c9204
+      document.getElementById('cf.., 2016 ,await|NullReferenceException|InvalidCastException|.*=.* as .*;,/tmp/work/2/283cb3ae4a0ae0475f3762db821c01670a7a0bfc79c9c5c4e29ae7c2e5d46906
