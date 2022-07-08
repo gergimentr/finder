@@ -1,4 +1,3 @@
-524_:_[Ee]scape [Ss]equences|[Ee]scape.*[Ss]equences
-104_:_underflow|[Uu]nderflow|UNDERFLOW
-105_:_atoi
-106_:_identify
+365v3114v2_:_Dispose\(\)|using.*\(.*new
+107_:_ EOF 
+108_:_[Cc]allback
