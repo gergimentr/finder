@@ -3,3 +3,8 @@ psg2_:_back doors|potentially unwanted functionality|controlled by an attacker
 oplb1_:_GlobalExceptionHandlerController
 oplb2_:_REST|Exception
 oplb3_:_Spring
+findCVE1_:_Weak|weak
+findCVE2_:_webview|WebView|Webview|Web View|Web view|web view
+findCVE3_:_XML Validation|XML validation
+findCVE4_:_unchecked return value|Unchecked return value
+findCVE5_:_java|Java|JAVA
