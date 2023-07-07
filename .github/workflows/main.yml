@@ -10,8 +10,8 @@ jobs:
     steps:  
     - uses: actions/checkout@v2
     - id: list_dirs
-#      run: echo "::set-output name=matrix::$(ls ./workers/*.py|jq -cnR '[inputs | select(length>0)]')"
-      run: echo "name=matrix::$(ls ./workers/*.py|jq -cnR '[inputs | select(length>0)]')" >> $GITHUB_OUTPUT
+      run: echo "::set-output name=matrix::$(ls ./workers/*.py|jq -cnR '[inputs | select(length>0)]')"
+#      run: echo "name=matrix::$(ls ./workers/*.py|jq -cnR '[inputs | select(length>0)]')" >> $GITHUB_OUTPUT
 #fix me. result to different branche or start only one workers(
  startWorkers:
     runs-on: ubuntu-latest
