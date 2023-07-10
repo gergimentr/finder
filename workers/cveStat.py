@@ -13,8 +13,8 @@ import json
 import sys
 import time
 
-#if time.localtime().tm_hour != 1:
-#    sys.exit(0)
+if time.localtime().tm_hour != 16:
+    sys.exit(0)
 try:
 #    pass_7z = sys.argv[1]
     bot_token = sys.argv[2]
