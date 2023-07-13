@@ -21,7 +21,7 @@ try:
     bot_chatID = sys.argv[3]
 except IndexError:
     print("not all parameters")
-    sys.exit(1)
+    sys.exit(0)
 
 
 
