@@ -14,14 +14,14 @@ import sys
 import time
 
 if time.localtime().tm_hour != 16:
-    sys.exit(0)
+    os._exit(0)
 try:
 #    pass_7z = sys.argv[1]
     bot_token = sys.argv[2]
     bot_chatID = sys.argv[3]
 except IndexError:
     print("not all parameters")
-    sys.exit(0)
+    os._exit(0)
 
 
 
