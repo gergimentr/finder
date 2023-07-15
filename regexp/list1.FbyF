@@ -2,3 +2,5 @@ findCVE3_:_XML Validation|XML validation
 findCVE4_:_unchecked return value|Unchecked return value
 findCVE1v2_:_weak encryption|Weak encryption|Weak Encryption
 findCVE1v3_:_weak permissions|Weak permissions|Weak Permissions
+oplb1_:_GlobalExceptionHandlerController
+findCVE6_:_index error|Index error|Index Error
