@@ -5,3 +5,4 @@ findCVE1v3_:_weak permissions|Weak permissions|Weak Permissions
 oplb1_:_GlobalExceptionHandlerController
 findCVE6_:_index error|Index error|Index Error
 findCVE7_:_Untrust|untrust
+findCVE8_:_Insufficient|insufficient
