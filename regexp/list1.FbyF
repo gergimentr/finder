@@ -6,6 +6,6 @@ oplb1_:_GlobalExceptionHandlerController
 findCVE6_:_index error|Index error|Index Error
 findCVE7_:_Untrust|untrust
 findCVE8_:_Insufficient|insufficient
-findCVE5v1_:_.java in|.py in|.js in|.rb in|.go in
+findCVE5v1_:_\.java in|\.py in|\.js in|\.rb in|\.go in
 findCVE5v2_:_java sandbox|Java Sandbox|Java sandbox
 findCVE5v3_:_java code|Java code|Java Code
