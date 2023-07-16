@@ -29,3 +29,40 @@ SEARCH,YEARS,PATTRN,HASHfile
 .js in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/7/7b62d44562ed7e159e957ad4a31fd32f3a0db5bd48490934c78499e8f608d118
 .java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/7/7b12c1f431f4b4fc73af1f60fec5251c8515243d495906c976c54395a2a8a933
 .py in, 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/7/73c4f150c44767ba57a95dbe99becbe68424745df1c29c89ecce39098502fa2d
+.js in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/879b2d6fbd5e1e0774b5bb4af132277fd357ceb1400c22f0fc3fb887f08b21df
+.java in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8e8b237cac40c2e0b7f0217a840622e0dcea8eeec6ea18dc84c1abe53935a97b
+.py in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/85781269b6dcfee24ced8227f1629bdfdf06868bd09f273f9e13006316b33302
+.js in, 2011 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/846ad0114b7716cf94e5f8a8d0c8cc6a5cc4efeef7e51415740361fc6e56bca6
+.py in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8b1effc7bd9e24996dd105cd8f85bab1ca3c9835e1b94f426af54e84cc7470a2
+.js in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8e791ce1e3adb945a5be566207a66d3934671289d516d4c7f5f6ae31cbea7ba9
+.py in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8b8fafdc05e00b251bf25660d3b70aa98d8bc267fcad321fef358ad0645ea141
+.py in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8a5df59a1108ee43c338401397150ba6d65b52ee97d64867bd21ee0c0e8490ca
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/824834f1d57c264abc2b7e0346a189a43c53d7176d023d55af66b89d0aa90bf2
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/88cac2a5e8928e78367dfce1bbae1ca599186fdcf73bbfb61f51c9ccc1cac33d
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8078a060171d15fd21fdef560568f479dd6ccdb9a249c699381dbda0bcec730e
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8257707f59aac6842933a0a09aba462ec203f5744499fd1091d24ca3a722e8b3
+.py in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/82dcbaa60d8afee7ff0577b3fce996c070c20d4ae3ad5031640bb04169a20de2
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8d6da0b7e22cb9db42711ba12b071568e6d1d50b2bd87e3cd100a4cc2452bd53
+.py in, 2009 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8571566d5dd1d3d6a14b125dffdaee5fb5d9d71cba4e01bf98381d93b21d8437
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8845ac008fa85ab3165cace09eb0c59b41ea3da1a81cefd7e374a8565d5a7f2b
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8866d8f259993fd6e9c682896f025aa5b1f5d049d98c6f859db1a29b15b55038
+.py in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8add25a91f0d6a6ac3cf56c03ee386ee3a42832285a61ee13338200414937ff0
+.py in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8e321b0856095c27eaa82968cc2b7ae8d7036cb258d41097d018597fcb9eb0dd
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/890f7e730a8f3948c8ed6ccfc05534071c10c4076cd726b1ca58f2ec996d4c26
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/85aa8d51d7e85c679a5531b4f4037978746c6ee67b75fe04c1da284fa43da052
+.rb in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/89de926dfd80b2a4e7a279c473cad6389b0f30af4e5091d52058ebc16010a652
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/84249e0d3d01bcc330db4c3493a529a42986b938c87225742e24773250f8f6f4
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8606e53a008d2b514e34f6520e87fd9176369dda9644a8f2d6a043ac04e64a25
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/80e40a77445ac44fedc9bd8357a6400383e9f95ad89a4aa2454ad2aebc863e7f
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/87ad528b3f866ee98a7d92fd267e9e36e020414820c7aa1647bb662ed3ad5a23
+.py in, 2010 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8e5184d7f099d1196a87ee1594bb9b24cbd36de083f7fe04c3b2689124f4db9a
+.py in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/827934d9ea36b052121bbe236c87df05a95003387805c8fc78858227ab3463af
+.js in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/837ee6e8eb3db11005b44624569322b6f24557f8ed63457cd69d341d127079d5
+.py in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/85196b72892981dae1b8b3eb4695725a7f6b200e2d9c38ba1a0cfdcbb17c294a
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8151c136b88dea5dbd75736da20c2d29f10cf4737ba57a1b5dcd576bf1adc536
+.py in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/82ca468e010596c12d5b46deabec93c43b34bdb3b1f5a47c9dfe219c56c34569
+.py in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/868355bab51bc3568cb098eb3ed2fb7ed90f201ed32605c7f2113566cc8f2520
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/872bdf17e5481fd74427514c18ed2484e6943eef5ca4abcbe096b862bd44430d
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8408719dec62983f83e124726371e206e932760ceec510fc46071f3543119e38
+.py in, 2008 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8aa58a6f699964cdfddbcc62623ddea3a649e199cfed649b6001a2c8919b7d5e
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/8/8e931f64239bd93b789b96f09a00136990ad01629f1ab5f839d446b354c7d729
