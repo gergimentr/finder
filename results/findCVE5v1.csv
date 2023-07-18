@@ -232,3 +232,31 @@ SEARCH,YEARS,PATTRN,HASHfile
 .js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/e/e46d7e4bec549bc88ce7c13775fc15184aede0ef67d17e49243536d14dd8c211
 .js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/e/e724732f6678f870742a141c34e285a5c0374a10b5581baca97a2420739fb58f
 .py in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/e/ef26a0214d424c6eee543150ec353a3e03431f1d1d230670ccadb78860bfef0f
+.py in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/ff78f21750e78f11580048905de14cd8ce2756b1cea11fee4b4d3a8357fbb486
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f0cfa60e57be8af691dff3c7abc402034ddd564848f292e6121e67784b7ac00e
+.py in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f6ca94bf8821596f95c7fd3dfed93e2ba0c6548f3b6b8bb5e664962d34442a7e
+.js in, 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f619770e3ca10f3d6e1604755c17993cdc7bae5ebf452b6664895e7ea18bcb13
+.rb in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f81adbaef790d4dea6de97fe9a00c82322f43b9d73918f63576cac68b5899232
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fd5153cc24192065cb1bacb95e5ebe9a0e9ddc499919a813b2d3e040dc2ff156
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f2195a87d36d3731cbb4b7e25f6916fd5b1d96d4e17b09a2588909f55dbbb69a
+.js in, 2007 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f29bc127cc0ce367535ef163c75ab802a15826cd6371ea50c04ea100900f93e4
+.js in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f7239af979fb05e7921ebc6ccfd81c74d1575ce90f499997daa05a9075209629
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f3b0138bb440670183753c0b13a9ba6df93ea6551b1a608a2c19d01aa7487885
+.go in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f45e5f84b04ca67284baeed1f66d429dd1cdcf9a6f62b544611eb104e721be74
+.py in, 2010 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fe844fca5400dd71ca391765d019f551a9af910266ab7741041ae3d8119a144a
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f4d176ec15c6a0dcabc735882c41a1f1e95971336c1fef6aa5ea53ba0302e539
+.js in, 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/ffc83faa6e4ef6296d63946ffaead8b7b2201b48ddf6c5b71bbd6f1ebe445319
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f2fb6911241b2e463287712e5294e03c1a5a22971fdd00a4d9576c41da727a42
+.py in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f5c51464dbff2d431da89699e39cf66e7f067879dd5e27715c06c774a181dbaa
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fe9c1a1e07307813db5469e2787194e350f0b891f0bf2cdb2bad78d9cb1ba74d
+.py in, 2011 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f15488358fe06dbaf8891bbba6a54ebce941d993a0a18d2bebacff9e4bee2e15
+.py in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f9c989da41873e1a45be67bb0fa92900cb61b46ccc85a0787045d8abc0082efb
+.js in, 2018 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fe42bc72505eb4c007f7d8b09a9e059a0de87ec5d7a6087413b6f43f63314cc5
+.js in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fb027e0a0d3b925fbf4264cad2ebf818eec353f8b46cfe5657608afe9740661d
+.js in, 2018 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f0cbc343b945500c536a5220dcf24755afa3e992b7ab481cbf25980c9b0d2073
+.js in, 2007 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f3c9b714b38fabfb91d4334474d0a3a59f02bb8e842d33be3fd27f107d6f6f33
+.js in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fc201bd8fad70ddb3c8d9d84e19ae82f10ce47d51309a57f38252b0d696b0de2
+.js in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f54b03918570baa87e07b1cb59bbcf3697cda7b84a66cfc4f30cc4c30a0d2331
+.py in, 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f1e753695b39d86243fdad35da2d947dac859490f6751b247a3d10ed397c7780
+.js in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/f61ce522a269e27573b238b083bb2f0825581aaa9050cd69fe5cba968bda2c4d
+.js in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/f/fb9a5dd5ca9232e64e4ad8ad7b5a59c195e8841ff0c581d03f48dc4a5697dd5b
