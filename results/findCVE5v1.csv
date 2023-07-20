@@ -435,3 +435,31 @@ SEARCH,YEARS,PATTRN,HASHfile
 .js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/23a/110ef8f9d662fcbb9e7a400ad38955abbf68ac7b321b2608bf2b9499dbcfed0d
 .js in, 2022 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/23a/6e0184f77becc1b1cd3b423a9e1d6d541aa20061b7cecab06300c6eebe620fd5
 .js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/23a/135dc75d183440846ae9f117754ac9621359c4a59c57a4e1ffa7198022911ab3
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0fae2f14361dd3c09e3ecc84ee9cb2acedb732605f053501235fcec60bcc5f66
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0a1bbdf658753766108a4f54842d708c0cee369dbdebf35e1d032d84de87f8f5
+.py in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/032d1ea667f5f41acd87eb44962b64851d3f4f2cd44450a5b0d3fa1838e1b2c1
+.js in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/03b2d539ca88c179c04ec78921f36e5d397a23a22e9f9e04068f8f2f0eda402b
+.go in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/073771b948ee445287de6ab3ac476b219da13e794bbd4f76e6843e5e33438f0d
+.java in, 2011 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0be32d420d70019b9f6fa4323c92e07a7871462b245c65027a841c25bc3d1cf4
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0b45b143a36b604280573fba682ea821f0f12b8ef4f50d2c85c3cbca4d8a508b
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0a3ea36105b7f8dc0f161c22d80f3718772b796c69d07ec36424e576843d76be
+.rb in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/051677a591792856225846d234ae8ed2ed87d779bbb719bff6141cb62ae67d5a
+.rb in, 2008 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0413d6142da1fa528b69337da2431ba6005b8124ef3faa78f7a789a82179e8a2
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0f08af8fd87b68b640639fd6c0388255b825177e99e9789ddbce04ca3644016a
+.java in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0d7ae7f333b94eb5bc6c2f2f9811d305bc528fec42ca2a9a744b4f8c9b84e6fc
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0a91e73a273ecd5f20b5109488c1c0ced26ba44b0f3012bbf3229cfc615e355f
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/076e3b6ebc509e67f072cffff182497770b653baba20e38047537ffa42ffe3af
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0dbb72973b031f9681c6c22a030615a63c367e9a4923160afd3f45dbdb17fb58
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0634ac0cbe2f4459b804f3b1c656566d1d78735d822233aed2e115c28db25861
+.js in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/090e4bd036259217cc160b7aa192623c3662fdfc2ba2d0fc3ab45e802bbbb658
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/08e59a232b8e58aeb03a2f3534bcb758bac22f755996019c9f5179b1170cba11
+.rb in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0caec15979b06ae3c3cc4d861b7404900e424378db31280a535d25a1549e9d93
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/020dd8afc969cbf9b86a540ef6440f374fd490a2ce8e06d24c9f81e00231e1fd
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/04b47b89f452d70096787d52e82b7dd1099b93d8c6f0af52bbc1de93ccf687cb
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/093e3ae0b3438874c74362d1c3ec2e6abe1f1bb585ad1e81392220fa343a232c
+.py in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/06a7af0d3c211e3b581f7dfdeb5b14ca4dc9f9edb10247eaf56c8a0dd7ab79dc
+.py in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0d15f37af7d34a9048f28624dc3e4897d7c5683eb5a62d42aa48aab541951911
+.js in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/09dd3f52179607298a504c221f9fab450c8f7b1af5dc4dbf35ea6dc139850ea1
+.js in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0196c3812a65a95f41bc8f8e13319194de45a41d57c0191f6cdda2f83bf55d71
+.js in, 2010 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/0ea078f3e693b230ebb180669d834a5ccc2a1745eee543e956da2f50cd9c92dc
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/0/01b4d589886f31cf22eb3c1ab243ce3a4a70f55703ab5c757cd6a7d474972e95
