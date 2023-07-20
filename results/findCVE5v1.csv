@@ -483,3 +483,31 @@ SEARCH,YEARS,PATTRN,HASHfile
 .py in, 2005 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/1/107cca91faa167783c1fb7c48baeeab7b350aacfcf5258921bb27bf265381dda
 .js in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/1/1197f0f0f379edf85654704dd51d4a16d4feb513029f4bd40be8cc8653f46a0e
 .js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/1/16976c70988ae467d9be797f689f64056ca622edba069724dd6016bc9aeaed59
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/258c309f42a488fe621e426b0b9849c6c5217cf2bf9200455ba8ccf46c504704
+.py in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/208d937755e2e0cc042a24be63cafc266b33b12c2f63cad1619707f670f60bd5
+.java in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2f52e3aeb86c2571a7ca1f9fe8add8f2728aab579ca8ba61e3409760f04b7af0
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/23e064357cec55dfc7e69360ae9bd4e32fb599ee7f17d24d4bb7a668eee5fd81
+.py in, 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/23dea6fd545a4f4e0f954bb8cdc927b95e313dfe1e3b93587c9afed6a77ec162
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2aa329be730edb6ce6aa2eac5b26102b1b068294e400acf0984c0248f3e7e5b3
+.rb in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/248b29b3462509805471be7e79dae74974012fa4b2f162b2a99fb376647d1160
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/212912f3a97b571ceba81ec6b564dd3064f02bc516ae2c793d1483649c33e1f9
+.py in, 2019 2021 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2110e793400161ddb2e8218f106c3bac493b3fd5ebe9b254682e53c40eafe9b5
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2ef5f1fe8316ffa0c97c1d685cea6764e7fe68305b702f6250ca2d7897ae4bb6
+.js in, 2017 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2de6202f2da3334828444e6b467b3a9597d589b38d8706ac12cfcdb310474675
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/20065bff26ef1dce86279ca343aa9521f6bdc7fa02b0116de834fee1ed38b8ac
+.py in, 2010 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2e480c0c58a94a4e0aba166985ebba3c8b8ef7df34cd7350a90195262e1c95b0
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2e6580883ed8ec6b3d017fb529acb295c015dda7823a9ff5d9970ed5afa930d7
+.java in, 2008 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/200a187180811067bec6077b78bd3221f71492c4643423aeb5e892f08fec0ada
+.py in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2b50fa9c4f9710a96b5e537ee6a4de4f4bdd59bd09098d11c1ce8ac461cb534f
+.java in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/255e010109f3b0e0a0b9edd1d49f2deb8d218befed56062448ace4ff1b250ed4
+.js in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/27b56d6a93ef6e26d52ec5267598e7bebe839cc42f2a11a8f29a20783898c5b4
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/262296278a3385f9ccfedc14b240a52332a37882a22926bf2e535bda77c88403
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/269f92ec40dbbbdae4e2d5137f5ec1393b044854d87af322cd5300b752a5389d
+.js in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2a86fd9dfdfb6804211b8265203702af9da76498560007251d98a4c5c712458f
+.js in, 2016 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/26142d973e0ee9c2e36b084d40be3176b381c0c48079e3de5c1eb4a39b7dbf27
+.py in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/209b3660b65c571f64aa117541241b00d6ea3b2a542b002da45f0bbe406e958e
+.py in, 2012 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/25b7c02ba4929f5943270ef0b8fe5c7e3499023a08369fe8bbea4e168debaa60
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/2a5d6ead55b127048b11f3d79b200d00f4b11b31b2dff7596d492f5e42aa3a41
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/22dc521543acc36d1d61441d9a2365fcb54de75716b2e0134aea96e53348ee6a
+.java in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/25e5a52c77d63a69c8ee27d8b53501d98f5eca275c89c84085c6d018ee4b486c
+.rb in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/263658d8f0a9712e7fd77311495d41be67159b67b26d2c2cc7eb76173df9a4a2
