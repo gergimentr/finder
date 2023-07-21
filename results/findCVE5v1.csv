@@ -511,3 +511,20 @@ SEARCH,YEARS,PATTRN,HASHfile
 .java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/22dc521543acc36d1d61441d9a2365fcb54de75716b2e0134aea96e53348ee6a
 .java in, 2019 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/25e5a52c77d63a69c8ee27d8b53501d98f5eca275c89c84085c6d018ee4b486c
 .rb in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/2/263658d8f0a9712e7fd77311495d41be67159b67b26d2c2cc7eb76173df9a4a2
+.js in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3bbdd826e210dc64f1a6b8e0a655d0ebf3881c6950a6c55da74c87c9906b3278
+.py in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/33f62ac991a4b77678207f9a3bd03888ad50660fa46f13a523fe1ef86bec3015
+.js in, 2018 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3fcdc7fe1d4c138f1c182677dc4a2f9af3cab011d8405960338a575b0595830c
+.js in, 2007 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/38f685be93a57286b8edc17b54428da6ca6af95d22ef9109e38252078344f577
+.java in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/35c7a3b6f6948c6e6e9940f9a6e9e542e52ca26501098fb56ae29a7ac94900c0
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3156d2dc9330224befcdb9a2fc9dd2ec80c27bfd3f4f465c1aae1da0674cfe23
+.rb in, 2008 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/37053bfc157774a22c4ae7a85914d4620dfa9510e332e323f8c9a060b3195370
+.java in, 2013 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3d91e0f53213eea625865a89e714baf0cf3a5ec1ccca72865a73347ca1a0a571
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/35717fddb6bfea31fdc713ba80ec3e2d089b8800b3b1240639cf8f2fa9acd204
+.py in, 2011 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3fef7fdd636dfadbe2286c6d9a475164d356b05cfd303c852b6727f6d5837d89
+.py in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/30da0d9698273cb417e0bb2d38df4b92c488db953355ace530c6bd576c1ee85d
+.js in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/31c1e08cb5a572f87f4051f0abcb2919a9427e07da3c0ec02997e417825d43fc
+.py in, 2014 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3ce6adca61f62d79ba91e94c66606b901eeea8ff8b0c8b5dc24f86a0386b695b
+.py in, 2015 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3affe60b6e8ff38ad558c0b5c79c62835afd97932b4917110fedbd4f35305806
+.java in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/35443acfdff08061b7d547114461be7419132e827abf99d133873743da7c2901
+.js in, ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/3058823cebb5afdb9adb796c4e94e9946db612c5fe5c647a602817d35e2e0890
+.go in, 2020 ,\.java in|\.py in|\.js in|\.rb in|\.go in,/tmp/work/3/38ce08e9f4e1462aedf57b54f5d0c9f5f65d5c00b993949e20b7a88fafeae27f
