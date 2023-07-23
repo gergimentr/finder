@@ -1,13 +1,21 @@
-findCVE3_:_XML Validation|XML validation
-findCVE4_:_unchecked return value|Unchecked return value
-findCVE1v2_:_weak encryption|Weak encryption|Weak Encryption
-findCVE1v3_:_weak permissions|Weak permissions|Weak Permissions
-oplb1_:_GlobalExceptionHandlerController
-findCVE6_:_index error|Index error|Index Error
-findCVE7_:_Untrust|untrust
-findCVE8_:_Insufficient|insufficient
-findCVE5v1_:_\.java in|\.py in|\.js in|\.rb in|\.go in
-findCVE5v2_:_java sandbox|Java Sandbox|Java sandbox
-findCVE5v3_:_java code|Java code|Java Code
-an1cl_:_[Uu]ser-controllable|[Uu]ser controllable
-an2cl_:_NullPointerException|NULL Pointer Exception
+vvb0_:_[Ww]ord[Pp]ress|WORDPRESS
+vvb1_:_[Bb]locksy [cC]ompanion|[Bb]locksy|[Bb]locksy-[Cc]ompanion
+vvb2_:_GDPR Cookie Consent|[cC]ookie[yY]es|[Cc]ookie-[Ll]aw-[Ii]nfo
+vvb3_:_[Ww]ebcraftic [cC]yrlitera|[Cc]yrlitera
+vvb4_:_[Dd]uplicate_[pP]ost|[Dd]uplicate-[Pp]ost
+vvb5_:_[Ee]lementor
+vvb6_:_[eE]nable [mM]edia [rR]eplace|[Ee]nable-[Mm]edia-[Rr]eplace
+vvb7_:_[eE]ssential [aA]ddons [Ff]or [eE]lementor|[Ee]ssential-[Aa]ddons-[Ff]or-[Ee]lementor-[Ll]ite
+vvb8_:_[Jj]etpack
+vvb9_:_[pP]assword [pP]rotect [wW]ordPress [lL]ite|[Pp]assword-[Pp]rotect-[Pp]age
+vvb10_:_[pP]owerpack[eE]lements[lL]ite|[Pp]owerpack-[Ll]ite-[Ff]or-[Ee]lementor
+vvb11_:_[Rr]edirection
+vvb12_:_Rank Math SEO|[Ss]eo-[Bb]y-[Rr]ank-[Mm]ath
+vvb13_:_[Tt]agembed [wW]idget|[Tt]agembed-[wW]idget
+vvb14_:_[Tt]o [Tt]op|[Tt]o-[Tt]op
+vvb15_:_[Uu]se [Aa]ny [Ff]ont|[Uu]se-[Aa]ny-[Ff]ont
+vvb16_:_VDZ [yY]andex [mM]etrika [pP]lugin|[Vv][Dd][Zz]-[Yy]andex-[Mm]etrika
+vvb17_:_[Ww][Pp]-[nN]ested-[Pp]ages|[nN]ested [pP]ages
+vvb18_:_cyr2lat|[Cc]yr-[Tt]o-[Ll]at
+vvb19_:_[Rr]oyal-[Ee]lementor-[Aa]ddons|[Rr]oyal [Ee]lementor [Aa]ddons
+vvb20_:_aheto|Aheto
